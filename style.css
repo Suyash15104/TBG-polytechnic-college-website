@@ -38,7 +38,7 @@
 .nav-links a {
   margin-left: 1rem;
   text-decoration: none;
-  color: white;
+  color: #1e3a8a;
   transition: color 0.3s ease;
 }
 
@@ -170,4 +170,34 @@
 }
 h2 {
   color: white;
+}
+/* Custom body styling */
+.body {
+  background-color: #f9fafb; /* light gray */
+  font-family: sans-serif;
+  color: #1f2937; /* gray-800 */
+}
+
+/* Section variations */
+.section-white {
+  background-color: white;
+}
+
+.section-light {
+  background-color: #f3f4f6; /* gray-100 */
+}
+
+.section-title-center {
+  text-align: center;
+}
+
+/* Contact section background and text */
+.contact-section {
+  background-color: #1e3a8a; /* blue-800 */
+  color: white;
+}
+
+.contact-link {
+  color: white;
+  text-decoration: underline;
 }
