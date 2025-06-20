@@ -1,6 +1,6 @@
 # T.B.G. Polytechnic College Website 
 
-A responsive and informative website for **T.B.G. Polytechnic Ambajogai**, built using **HTML**, **Tailwind CSS**, and **JavaScript**.
+A responsive and informative website for **T.B.G. Polytechnic Ambajogai**, built using **HTML**, **CSS**, and **JavaScript**.
 
 ##  Live Demo
 
